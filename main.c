@@ -421,10 +421,18 @@ void cartscreen()
         if(cartcount == 0)
         {
             centerprint("Your Cart Is Empty",4);
-            design("arrow.txt", 4);
+            printf("\n");
+            design("back0.txt", 4);
             int v;
+            centerprint("Select an option : ",0);
             if(wrongans(&v)) continue;
             if(v == 0) firstscreen();
+            else {
+
+                    centerprint("    Invalid number!", 4);
+                Sleep(700);
+                continue;
+            }
         }
         else
         {

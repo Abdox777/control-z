@@ -1,8 +1,28 @@
 ================New Order================
-Username : 
+Username : x
 
- (1) 1 x Pepsi = 20$
- (2) 6 x Ice cream = 210$
- (3) 2 x Pizza = 150$
-Total : 380$
+ (1) 2 x Water = 20$
+ (2) 3 x lamon juice = 90$
+Total : 110$
+
+================New Order================
+Username : boss
+
+ (1) 2 x Water = 20$
+ (2) 3 x lamon juice = 90$
+Total : 110$
+
+================New Order================
+Username : boss
+
+ (1) 2 x Pizza = 150$
+ (2) 3 x chicken = 150$
+Total : 300$
+
+================New Order================
+Username : Boss
+
+ (1) 4 x coffee cup = 100$
+ (2) 1 x Pepsi = 20$
+Total : 120$
 
