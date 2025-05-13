@@ -1,0 +1,8 @@
+================New Order================
+Username : 
+
+ (1) 1 x Pepsi = 20$
+ (2) 6 x Ice cream = 210$
+ (3) 2 x Pizza = 150$
+Total : 380$
+
